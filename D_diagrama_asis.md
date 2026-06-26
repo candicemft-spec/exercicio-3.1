@@ -1,6 +1,6 @@
 ﻿## Diagrama AS-IS — Pensão por Morte (Espécie 21) · RGPS/INSS
 
-Fluxo da jornada do dependente, do óbito ao pagamento/manutenção, com os fail points em destaque. Reflete as etapas e atores do `C_blueprint_asis.md`. A Linha de Visibilidade separa o que o cidadão vê (frontstage) do backstage; os fail points marcam onde a jornada trava.
+Fluxo da jornada do dependente, do óbito ao pagamento/manutenção, com os fail points em destaque. Reflete as etapas e atores do C_blueprint_asis.md. A Linha de Visibilidade separa o que o cidadão vê (frontstage) do backstage; os fail points marcam onde a jornada trava.
 
 ```mermaid
 flowchart TD
